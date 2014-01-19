@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PicturePicker</string>
+    <string name="menu_settings">Settings</string>
+    <string name="uploadFromGallery">upload picture from gallery</string>
+    <string name="uploadFromCamera">upload picture from camera</string>
+    <string name="desc">picture uploaded</string>
+
+</resources>
